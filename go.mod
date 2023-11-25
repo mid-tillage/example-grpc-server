@@ -1,4 +1,4 @@
-module example-grpc-server
+module github.com/sysinternals/example-grpc-server
 
 go 1.21.4
 
