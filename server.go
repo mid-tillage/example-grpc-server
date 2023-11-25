@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-    "github.com/sys-internals/example-grpc-server/userpb"
+	"github.com/sys-internals/example-grpc-server/user"
 	"google.golang.org/grpc"
 )
 
